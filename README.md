@@ -1,0 +1,1 @@
+This is the first real assignment from The Odin's project and it is for educational purposes only. It is NOT a professional project and may not be taken serious.
